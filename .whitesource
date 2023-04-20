@@ -4,9 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableReachability": true
-  },
-  "scanSettings": {
+    "enableReachability": true,
     "enableSAST": true
   },
   "checkRunSettings": {
